@@ -16,13 +16,13 @@ Accept: application/json
     "ordered_at": "2022-11-09T21:21:46+00:00",
     "items":[
         {
-            "item_code": "3245",
-            "description": "Keyboard",
+            "item_code": "5493",
+            "description": "magicom",
             "quantity": 15
         },
         {
             "item_code": "4123",
-            "description": "Mouse",
+            "description": "dispenser",
             "quantity": 21
         }
     ]
