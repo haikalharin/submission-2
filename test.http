@@ -12,8 +12,8 @@ Content-Type: application/json
 Accept: application/json
 
 {
-    "customer_name": "ujang",
-    "ordered_at": "2022-11-09T21:21:46+00:00",
+    "customer_name": "haikal",
+    "ordered_at": "2023-07-09T21:21:46+00:00",
     "items":[
         {
             "item_code": "5493",
